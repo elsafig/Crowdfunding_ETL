@@ -26,7 +26,7 @@ An "end_date" with the time formatted as "YYYY-MM-DD"<br>
 A "category_id" column that contains the unique identification numbers matching those in the "category_id" column of the category DataFrame<br>
 A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame<br>
 The campaign DataFrame is exported as campaign.csv (5 points)<br><br>
-# A Contacts DataFrame is Created (15 points)<br>
+# *COMPLETE* A Contacts DataFrame is Created (15 points)<br>
 The DataFrame has the following columns: (10 points)<br>
 A "contact_id" column<br>
 A "first_name" column<br>
