@@ -33,7 +33,7 @@ A "first_name" column<br>
 A "last_name" column<br>
 An "email" column<br>
 The contacts DataFrame is exported as contacts.csv (5 points)<br><br>
-# A Crowdfunding Database is Created (25 points)<br>
+# *COMPLETE* A Crowdfunding Database is Created (25 points)<br>
 A database schema labeled, crowdfunding_db_schema.sql is created (5 points)<br>
 A crowdfunding_db is created using the crowdfunding_db_schema.sql file (5 points)<br>
 The database has the appropriate primary and foreign keys and relationships (5 points)<br>
