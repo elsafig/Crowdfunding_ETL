@@ -9,7 +9,7 @@ The category DataFrame is exported as category.csv (5 points)<br>
 The DataFrame contains a "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories (5 points)<br>
 The DataFrame contains a "subcategory" column that contains only the subcategory titles (5 points)<br>
 The subcategory DataFrame is exported as category.csv (5 points)<br><br>
-# A Campaign DataFrame is Created (30 points)<br>
+# *COMPLETE* A Campaign DataFrame is Created (30 points)<br>
 The DataFrame has the following columns: (25 points)<br>
 A "cf_id" column<br>
 A "contact_id" column<br>
